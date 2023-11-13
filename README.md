@@ -7,7 +7,7 @@ This example deploys self-hosted version of [Listmonk](https://listmonk.app/).
 ## ✨ Features
 
 - Listmonk
-- Postgres
+- POSTGRES
 
 ## 💁‍♀️ How to use
 
